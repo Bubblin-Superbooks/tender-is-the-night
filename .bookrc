@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Tender is the Night",
-  "type": "text"
+  "type": "text",
+  "book_id": 639
 }
