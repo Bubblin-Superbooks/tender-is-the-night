@@ -263,3 +263,7 @@ ul li {
 .uppercase {
   text-transform: uppercase;  
 }
+
+.right {
+  float: right;
+}
