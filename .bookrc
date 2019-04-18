@@ -7,5 +7,9 @@
   },
   "name": "Tender is the Night",
   "type": "text",
-  "book_id": 639
+  "book_id": 639,
+  "start_page": "9",
+  "repository": "",
+  "source_url": "http://gutenberg.net.au/ebooks03/0301261.txt",
+  "basename": "0301261"
 }
